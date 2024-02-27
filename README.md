@@ -1,6 +1,6 @@
 # Predicting Gender Self-Perception: An Analysis of American Masculinity
 
-The code provided seems to be a comprehensive data preprocessing and exploration script for a survey dataset related to masculinity. Here's a summary of the major steps performed in the script:
+The code provided comprehensive data preprocessing and exploration script for a survey dataset related to masculinity. Here's a summary of the major steps performed in the script:
 
 1. **Data Loading and Overview**:
    - The script starts by loading the data from a CSV file and displaying basic information about the dataset, such as its shape and the first few rows.
