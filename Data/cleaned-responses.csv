@@ -1,0 +1,1616 @@
+,q0001,q0002,q0009,q0025,q0026,q0028,q0029,q0030
+0,Somewhat masculine,Somewhat important,not_employed,False,not_straight,not_white,college_graduate,northeast
+1,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+2,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+3,Very masculine,Not too important,not_employed,True,no_answer,white,high_school,midwest
+4,Very masculine,Very important,employed,False,straight,white,college_graduate,midwest
+5,Very masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+6,Somewhat masculine,Not too important,employed,True,not_straight,not_white,graduate,west
+7,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,northeast
+8,Very masculine,Not at all important,employed,True,straight,not_white,high_school,west
+9,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,west
+10,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+11,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+12,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,southeast
+13,Very masculine,Very important,employed,True,straight,not_white,high_school,west
+14,Not at all masculine,Not at all important,not_employed,False,straight,white,high_school,northeast
+15,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+16,Somewhat masculine,Not too important,employed,True,not_straight,white,graduate,midwest
+17,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+18,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+19,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,high_school,west
+20,Not very masculine,Somewhat important,not_employed,False,straight,not_white,high_school,west
+21,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+22,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+23,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+24,Very masculine,Not too important,not_employed,False,straight,white,graduate,midwest
+25,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+26,Not very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+27,Not at all masculine,Not at all important,not_employed,True,straight,white,high_school,southwest
+28,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+29,Not very masculine,Somewhat important,not_employed,False,straight,white,graduate,west
+30,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+31,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,high_school,northeast
+32,Not very masculine,Not too important,not_employed,True,straight,white,no_high_school,west
+33,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,west
+34,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+35,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+36,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+37,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+38,Not very masculine,Not too important,not_employed,True,straight,not_white,high_school,southeast
+39,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+40,Not very masculine,Not too important,not_employed,False,straight,white,graduate,west
+41,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+42,Very masculine,Somewhat important,employed,False,straight,white,graduate,southwest
+43,Very masculine,Very important,not_employed,True,straight,white,high_school,southwest
+44,Somewhat masculine,Not at all important,employed,True,straight,white,high_school,southeast
+45,Not very masculine,Not too important,not_employed,True,straight,white,high_school,west
+46,Not very masculine,Not too important,employed,True,straight,white,graduate,midwest
+47,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+48,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,west
+49,Not very masculine,Somewhat important,employed,False,straight,not_white,graduate,southeast
+50,Somewhat masculine,Not too important,employed,True,straight,white,graduate,west
+51,Very masculine,Somewhat important,not_employed,False,not_straight,white,high_school,midwest
+52,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+53,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+54,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+55,Somewhat masculine,Not too important,not_employed,False,straight,white,no_high_school,west
+56,Very masculine,Not too important,not_employed,True,straight,white,graduate,west
+57,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+58,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+59,Very masculine,Very important,not_employed,False,straight,white,high_school,midwest
+60,Very masculine,Very important,not_employed,True,straight,white,college_graduate,west
+61,Very masculine,Not at all important,not_employed,True,straight,white,graduate,west
+62,Not very masculine,Somewhat important,not_employed,False,straight,white,high_school,west
+63,Not very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+64,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+65,Somewhat masculine,Not too important,employed,False,not_straight,white,high_school,southwest
+66,Very masculine,Very important,employed,True,straight,white,graduate,west
+67,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+68,Very masculine,Not at all important,not_employed,True,straight,white,high_school,midwest
+69,Somewhat masculine,Not too important,not_employed,False,not_straight,white,college_graduate,southeast
+70,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+71,Very masculine,Somewhat important,not_employed,True,straight,not_white,graduate,west
+72,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+73,Somewhat masculine,Not too important,not_employed,False,not_straight,white,high_school,southwest
+74,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+75,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+76,Not very masculine,Not at all important,employed,False,straight,not_white,graduate,west
+77,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,southwest
+78,Very masculine,Not at all important,employed,True,straight,white,graduate,west
+79,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+80,Somewhat masculine,Somewhat important,employed,False,not_straight,white,high_school,southwest
+81,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+82,Somewhat masculine,Very important,not_employed,True,not_straight,white,high_school,west
+83,Very masculine,Not too important,not_employed,True,straight,not_white,high_school,northeast
+84,Very masculine,Very important,employed,False,straight,white,graduate,southwest
+85,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+86,Very masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+87,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+88,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,northeast
+89,Not very masculine,Somewhat important,not_employed,False,not_straight,white,high_school,northeast
+90,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+91,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+92,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,southwest
+93,Somewhat masculine,Not too important,employed,False,not_straight,white,college_graduate,northeast
+94,Very masculine,Somewhat important,not_employed,False,straight,not_white,college_graduate,west
+95,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southeast
+96,Not very masculine,Not at all important,employed,False,not_straight,white,high_school,southeast
+97,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+98,Very masculine,Not at all important,not_employed,True,straight,white,high_school,southwest
+99,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+100,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+101,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,west
+102,Very masculine,Very important,not_employed,True,straight,white,high_school,northeast
+103,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southwest
+104,Very masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+105,Somewhat masculine,Not at all important,employed,True,straight,not_white,no_high_school,southwest
+106,Not very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+107,Very masculine,Not too important,not_employed,False,not_straight,white,graduate,northeast
+108,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southwest
+109,Somewhat masculine,Very important,employed,False,straight,white,graduate,west
+110,Very masculine,Very important,not_employed,True,straight,white,high_school,southeast
+111,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+112,Somewhat masculine,Somewhat important,employed,True,not_straight,white,graduate,west
+113,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southeast
+114,Very masculine,Not at all important,employed,False,straight,not_white,college_graduate,northeast
+115,Very masculine,Very important,not_employed,True,straight,white,graduate,northeast
+116,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+117,Not at all masculine,Not too important,employed,False,not_straight,not_white,high_school,midwest
+118,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southwest
+119,Somewhat masculine,Not too important,employed,False,not_straight,not_white,college_graduate,southeast
+120,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+121,Very masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+122,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+123,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+124,Somewhat masculine,Not at all important,not_employed,False,straight,white,college_graduate,northeast
+125,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+126,Somewhat masculine,Very important,employed,False,not_straight,white,high_school,southwest
+127,Not very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+128,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+129,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+130,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+131,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+132,Not very masculine,Not at all important,employed,False,straight,white,high_school,midwest
+133,Somewhat masculine,Not too important,not_employed,False,straight,white,graduate,southeast
+134,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+135,Very masculine,Not too important,employed,True,straight,white,high_school,southeast
+136,Somewhat masculine,Not too important,not_employed,False,straight,white,graduate,west
+137,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+138,Very masculine,Somewhat important,employed,False,not_straight,white,college_graduate,northeast
+139,Not at all masculine,Not at all important,not_employed,False,not_straight,white,high_school,west
+140,Not very masculine,Not at all important,employed,False,straight,white,high_school,midwest
+141,Very masculine,Somewhat important,not_employed,False,straight,white,no_high_school,northeast
+142,Somewhat masculine,Very important,employed,True,straight,not_white,high_school,southeast
+143,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+144,Not very masculine,Not at all important,not_employed,False,straight,not_white,college_graduate,west
+145,No answer,Not at all important,employed,True,straight,not_white,graduate,northeast
+146,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+147,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+148,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southeast
+149,Very masculine,Somewhat important,employed,False,straight,not_white,graduate,northeast
+150,Somewhat masculine,Not too important,employed,False,straight,white,high_school,southwest
+151,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southeast
+152,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+153,Not at all masculine,Not at all important,employed,True,straight,white,high_school,southwest
+154,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+155,Not very masculine,Not at all important,employed,False,straight,white,college_graduate,southwest
+156,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+157,Somewhat masculine,Not too important,employed,True,straight,white,graduate,midwest
+158,Somewhat masculine,Not too important,employed,False,straight,white,graduate,midwest
+159,Somewhat masculine,No answer,employed,True,straight,white,graduate,southeast
+160,Not very masculine,Not at all important,employed,True,straight,white,high_school,northeast
+161,Very masculine,Not at all important,employed,False,straight,white,college_graduate,northeast
+162,Somewhat masculine,Somewhat important,not_employed,True,not_straight,white,graduate,west
+163,Very masculine,Somewhat important,employed,False,straight,not_white,high_school,southwest
+164,Not very masculine,Not too important,employed,True,straight,not_white,high_school,midwest
+165,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,southeast
+166,Very masculine,Not at all important,employed,True,straight,not_white,college_graduate,southeast
+167,Somewhat masculine,Not at all important,not_employed,False,straight,not_white,high_school,northeast
+168,Somewhat masculine,Very important,employed,True,not_straight,white,graduate,southwest
+169,Very masculine,Not too important,not_employed,True,not_straight,white,graduate,midwest
+170,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+171,Somewhat masculine,Somewhat important,employed,False,straight,not_white,graduate,southwest
+172,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,west
+173,Very masculine,Not too important,not_employed,True,straight,white,graduate,west
+174,Somewhat masculine,Not too important,employed,False,not_straight,not_white,college_graduate,west
+175,Very masculine,Very important,not_employed,True,not_straight,white,graduate,west
+176,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,southwest
+177,Not at all masculine,Somewhat important,employed,False,not_straight,white,college_graduate,southeast
+178,Somewhat masculine,Not too important,employed,False,not_straight,white,college_graduate,midwest
+179,Somewhat masculine,Not at all important,employed,True,straight,not_white,graduate,northeast
+180,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+181,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+182,Very masculine,Somewhat important,employed,False,straight,white,high_school,west
+183,Very masculine,Not at all important,employed,False,not_straight,white,high_school,southwest
+184,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+185,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+186,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+187,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+188,Not very masculine,Not too important,not_employed,False,not_straight,white,college_graduate,southeast
+189,Not at all masculine,Not at all important,not_employed,False,straight,white,college_graduate,west
+190,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+191,Very masculine,Very important,not_employed,True,straight,white,graduate,northeast
+192,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southwest
+193,Not very masculine,Somewhat important,employed,True,straight,white,graduate,southwest
+194,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+195,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+196,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+197,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+198,Very masculine,Very important,employed,True,straight,not_white,high_school,southwest
+199,Not very masculine,Somewhat important,not_employed,False,straight,not_white,high_school,west
+200,Very masculine,Very important,employed,True,straight,white,high_school,west
+201,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+202,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+203,Somewhat masculine,Not too important,employed,False,straight,white,graduate,northeast
+204,Somewhat masculine,Not at all important,employed,True,straight,white,high_school,midwest
+205,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+206,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,southwest
+207,Very masculine,Not at all important,employed,True,straight,white,high_school,midwest
+208,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+209,Very masculine,Not too important,not_employed,True,straight,white,high_school,west
+210,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+211,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+212,Very masculine,Very important,employed,True,straight,white,high_school,west
+213,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southwest
+214,Not at all masculine,Not at all important,employed,True,straight,white,high_school,northeast
+215,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,west
+216,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+217,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+218,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+219,Not very masculine,Not at all important,employed,False,not_straight,white,college_graduate,west
+220,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+221,Very masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+222,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+223,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+224,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+225,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,southeast
+226,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+227,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+228,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+229,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+230,Very masculine,Very important,not_employed,True,not_straight,not_white,college_graduate,southeast
+231,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+232,Very masculine,Somewhat important,not_employed,False,not_straight,white,graduate,west
+233,Very masculine,Somewhat important,employed,False,straight,white,graduate,southeast
+234,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+235,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,midwest
+236,Somewhat masculine,Not too important,employed,True,straight,white,graduate,west
+237,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,west
+238,Very masculine,Very important,employed,False,straight,white,graduate,west
+239,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,northeast
+240,Very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+241,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+242,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+243,Somewhat masculine,Somewhat important,employed,False,not_straight,not_white,college_graduate,midwest
+244,Somewhat masculine,Somewhat important,employed,False,not_straight,not_white,college_graduate,west
+245,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+246,Very masculine,Not too important,not_employed,False,straight,white,graduate,west
+247,Somewhat masculine,Very important,employed,True,straight,white,college_graduate,west
+248,Very masculine,Very important,not_employed,True,straight,white,college_graduate,northeast
+249,Very masculine,Very important,not_employed,False,straight,white,graduate,west
+250,Somewhat masculine,Very important,not_employed,True,straight,white,high_school,midwest
+251,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+252,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+253,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+254,Very masculine,Not too important,employed,False,straight,white,college_graduate,southwest
+255,Very masculine,Not too important,not_employed,True,not_straight,white,high_school,west
+256,Not very masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+257,Not very masculine,Not at all important,employed,True,straight,white,college_graduate,west
+258,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+259,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,northeast
+260,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+261,Very masculine,Very important,employed,True,straight,white,high_school,midwest
+262,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+263,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+264,Very masculine,Very important,employed,True,straight,white,college_graduate,southwest
+265,Not very masculine,Not too important,employed,True,straight,white,graduate,northeast
+266,Not very masculine,Not too important,employed,False,not_straight,white,college_graduate,west
+267,Somewhat masculine,Very important,not_employed,False,not_straight,white,college_graduate,northeast
+268,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+269,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+270,Somewhat masculine,Very important,not_employed,False,straight,white,college_graduate,southeast
+271,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+272,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southeast
+273,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+274,Not very masculine,Not too important,employed,True,straight,not_white,college_graduate,west
+275,Very masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+276,Very masculine,Not too important,employed,False,straight,white,graduate,west
+277,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+278,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,west
+279,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+280,Very masculine,Not too important,employed,False,straight,white,graduate,west
+281,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,midwest
+282,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+283,Not very masculine,Somewhat important,employed,True,not_straight,white,graduate,southeast
+284,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,midwest
+285,Somewhat masculine,Very important,not_employed,True,straight,not_white,high_school,west
+286,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+287,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+288,Somewhat masculine,Very important,employed,False,not_straight,white,high_school,southeast
+289,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+290,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+291,Not very masculine,Somewhat important,employed,True,not_straight,white,high_school,southeast
+292,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+293,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+294,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+295,Very masculine,Somewhat important,employed,True,not_straight,white,college_graduate,west
+296,Somewhat masculine,Not at all important,not_employed,False,straight,white,college_graduate,midwest
+297,Somewhat masculine,Not too important,not_employed,False,not_straight,not_white,college_graduate,west
+298,Very masculine,Very important,employed,True,straight,white,graduate,northeast
+299,Very masculine,Not at all important,not_employed,False,not_straight,white,high_school,southeast
+300,Very masculine,Very important,not_employed,False,straight,not_white,high_school,midwest
+301,Very masculine,Not too important,employed,True,not_straight,not_white,graduate,midwest
+302,Not very masculine,Not too important,employed,False,not_straight,white,high_school,northeast
+303,Very masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+304,Not very masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+305,Very masculine,Somewhat important,employed,False,straight,white,graduate,west
+306,Very masculine,Not too important,employed,False,straight,white,college_graduate,southeast
+307,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+308,Very masculine,Not at all important,employed,True,straight,not_white,graduate,northeast
+309,Somewhat masculine,Not too important,not_employed,False,not_straight,white,high_school,west
+310,Very masculine,Not at all important,not_employed,False,straight,white,high_school,west
+311,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+312,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+313,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+314,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+315,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+316,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+317,Very masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+318,Not at all masculine,Not at all important,not_employed,False,not_straight,white,high_school,northeast
+319,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,west
+320,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+321,Somewhat masculine,Not at all important,not_employed,True,straight,white,no_high_school,west
+322,Somewhat masculine,Not at all important,not_employed,False,straight,white,high_school,southeast
+323,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+324,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southeast
+325,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southwest
+326,Somewhat masculine,Not too important,not_employed,True,straight,not_white,high_school,northeast
+327,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+328,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+329,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,high_school,midwest
+330,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+331,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+332,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+333,Somewhat masculine,Not too important,not_employed,False,no_answer,white,graduate,southeast
+334,Very masculine,Very important,not_employed,False,straight,white,high_school,midwest
+335,Very masculine,Not at all important,not_employed,False,not_straight,white,college_graduate,southeast
+336,Not at all masculine,Not at all important,employed,True,not_straight,white,no_high_school,southeast
+337,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+338,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+339,Somewhat masculine,Somewhat important,not_employed,True,no_answer,white,graduate,midwest
+340,Not very masculine,Somewhat important,employed,True,not_straight,not_white,graduate,midwest
+341,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+342,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+343,Not very masculine,Not at all important,not_employed,True,straight,white,graduate,midwest
+344,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+345,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+346,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+347,Very masculine,Very important,not_employed,False,straight,white,graduate,west
+348,Very masculine,Not at all important,employed,True,straight,not_white,high_school,southwest
+349,Very masculine,Very important,employed,True,straight,white,college_graduate,west
+350,Very masculine,Not at all important,not_employed,True,straight,white,high_school,southeast
+351,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,west
+352,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+353,Not at all masculine,Not at all important,not_employed,True,not_straight,not_white,graduate,northeast
+354,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+355,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+356,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+357,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+358,Very masculine,Somewhat important,employed,False,straight,white,high_school,west
+359,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+360,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,northeast
+361,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+362,Very masculine,Very important,employed,True,straight,white,high_school,west
+363,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+364,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+365,Not very masculine,Not at all important,not_employed,True,straight,white,high_school,west
+366,Very masculine,Very important,employed,True,straight,white,high_school,southwest
+367,Very masculine,Very important,employed,True,straight,white,high_school,west
+368,Very masculine,Very important,employed,False,straight,not_white,high_school,southeast
+369,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+370,Somewhat masculine,Not too important,employed,True,straight,not_white,graduate,west
+371,Somewhat masculine,Somewhat important,not_employed,True,not_straight,white,high_school,southeast
+372,Somewhat masculine,Very important,employed,True,straight,not_white,high_school,southeast
+373,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+374,Somewhat masculine,Not at all important,not_employed,True,straight,white,high_school,northeast
+375,Very masculine,Not at all important,not_employed,True,straight,white,graduate,northeast
+376,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+377,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,west
+378,No answer,Somewhat important,not_employed,False,straight,white,graduate,midwest
+379,Not very masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+380,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,southwest
+381,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+382,Very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+383,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+384,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+385,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+386,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+387,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,college_graduate,west
+388,Very masculine,Not too important,employed,True,straight,white,graduate,west
+389,Very masculine,Not too important,employed,False,not_straight,white,college_graduate,northeast
+390,Very masculine,Not too important,employed,True,straight,not_white,high_school,southwest
+391,Not very masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+392,Very masculine,Very important,not_employed,True,straight,white,graduate,southwest
+393,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+394,Not very masculine,Somewhat important,employed,False,straight,not_white,high_school,west
+395,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+396,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+397,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+398,Somewhat masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+399,Somewhat masculine,Not at all important,employed,True,straight,not_white,graduate,southeast
+400,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+401,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+402,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+403,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+404,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+405,Very masculine,Not too important,employed,True,straight,not_white,college_graduate,west
+406,Somewhat masculine,Not too important,employed,False,straight,white,high_school,southeast
+407,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+408,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+409,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+410,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+411,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+412,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+413,Somewhat masculine,Very important,employed,True,straight,white,college_graduate,southeast
+414,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+415,Very masculine,Not at all important,employed,True,straight,white,graduate,southwest
+416,Very masculine,Not at all important,not_employed,True,straight,white,graduate,west
+417,Somewhat masculine,Not too important,not_employed,True,not_straight,white,high_school,southwest
+418,Very masculine,Not at all important,not_employed,True,straight,not_white,college_graduate,southwest
+419,Very masculine,Very important,not_employed,True,straight,white,college_graduate,northeast
+420,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+421,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southeast
+422,Somewhat masculine,Somewhat important,employed,False,straight,not_white,college_graduate,southeast
+423,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+424,Not very masculine,Not at all important,not_employed,True,straight,white,graduate,northeast
+425,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+426,Not very masculine,Not too important,not_employed,True,straight,white,graduate,west
+427,Somewhat masculine,Very important,not_employed,False,straight,white,high_school,west
+428,Very masculine,Not too important,not_employed,True,straight,not_white,high_school,west
+429,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southeast
+430,Very masculine,Not too important,not_employed,False,straight,white,no_high_school,southwest
+431,Somewhat masculine,Not too important,employed,False,straight,white,graduate,west
+432,Very masculine,Very important,employed,True,straight,white,graduate,midwest
+433,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,southeast
+434,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,graduate,west
+435,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,west
+436,Very masculine,Not too important,employed,False,straight,white,college_graduate,west
+437,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+438,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+439,Somewhat masculine,Not too important,not_employed,False,not_straight,white,college_graduate,west
+440,Very masculine,Somewhat important,employed,True,straight,white,high_school,northeast
+441,Very masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+442,Very masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+443,Somewhat masculine,Somewhat important,not_employed,True,not_straight,not_white,college_graduate,northeast
+444,Very masculine,Not too important,employed,True,straight,white,graduate,west
+445,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+446,Very masculine,Not too important,not_employed,True,not_straight,white,graduate,west
+447,Very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+448,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+449,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+450,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,high_school,midwest
+451,Somewhat masculine,Not too important,employed,False,not_straight,white,high_school,west
+452,Somewhat masculine,Not at all important,employed,True,straight,white,high_school,west
+453,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+454,Not very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+455,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+456,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,high_school,southwest
+457,Very masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+458,Somewhat masculine,Very important,not_employed,False,straight,not_white,high_school,west
+459,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+460,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+461,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,midwest
+462,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+463,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,graduate,midwest
+464,Somewhat masculine,Very important,employed,True,straight,white,high_school,southeast
+465,Somewhat masculine,Very important,employed,False,straight,white,graduate,northeast
+466,Very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+467,Very masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+468,Somewhat masculine,Not too important,not_employed,True,straight,not_white,high_school,southwest
+469,Very masculine,Not at all important,not_employed,True,straight,white,graduate,midwest
+470,Very masculine,Very important,employed,True,straight,white,high_school,northeast
+471,Very masculine,Not at all important,not_employed,True,straight,white,graduate,southeast
+472,Not very masculine,Not too important,employed,False,straight,white,college_graduate,northeast
+473,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+474,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+475,Very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+476,Very masculine,Not too important,not_employed,False,straight,white,high_school,west
+477,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,graduate,northeast
+478,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,west
+479,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+480,Very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+481,Very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+482,Very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+483,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+484,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+485,Very masculine,Very important,not_employed,True,straight,white,graduate,west
+486,Very masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+487,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+488,Very masculine,Very important,employed,False,straight,white,graduate,northeast
+489,Somewhat masculine,Very important,employed,True,straight,white,college_graduate,midwest
+490,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,west
+491,Not very masculine,Not too important,not_employed,True,not_straight,white,graduate,west
+492,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+493,Very masculine,Somewhat important,employed,False,straight,not_white,graduate,northeast
+494,Very masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+495,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,southwest
+496,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+497,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,southwest
+498,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,west
+499,Not very masculine,Very important,employed,False,not_straight,white,college_graduate,southwest
+500,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+501,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+502,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+503,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+504,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+505,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,west
+506,Very masculine,Very important,not_employed,True,straight,white,college_graduate,southwest
+507,Not very masculine,Not at all important,not_employed,False,straight,white,high_school,west
+508,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+509,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+510,Not very masculine,Not too important,not_employed,False,straight,white,no_high_school,northeast
+511,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,west
+512,Not very masculine,Not at all important,not_employed,True,straight,white,high_school,west
+513,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,northeast
+514,Very masculine,Not at all important,not_employed,False,not_straight,white,college_graduate,southwest
+515,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,west
+516,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+517,Very masculine,Very important,employed,True,straight,white,graduate,northeast
+518,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+519,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+520,Somewhat masculine,Not at all important,not_employed,True,straight,white,high_school,midwest
+521,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+522,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+523,Very masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+524,Very masculine,Very important,employed,True,straight,white,college_graduate,southwest
+525,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+526,Very masculine,Not too important,employed,True,straight,white,graduate,midwest
+527,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,northeast
+528,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+529,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+530,No answer,Not at all important,employed,True,straight,white,graduate,southeast
+531,Very masculine,Very important,employed,True,straight,white,college_graduate,northeast
+532,Very masculine,Not at all important,employed,True,straight,white,graduate,west
+533,Very masculine,Very important,employed,False,straight,white,college_graduate,northeast
+534,Very masculine,Not too important,employed,False,straight,white,college_graduate,southwest
+535,Very masculine,Very important,not_employed,False,straight,white,graduate,west
+536,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,west
+537,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southeast
+538,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+539,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,southwest
+540,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+541,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+542,Very masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+543,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,midwest
+544,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+545,Very masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+546,Not very masculine,Not too important,not_employed,True,straight,white,high_school,west
+547,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+548,Very masculine,Not at all important,employed,True,straight,white,college_graduate,northeast
+549,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,west
+550,Very masculine,Not too important,employed,True,straight,white,graduate,west
+551,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+552,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+553,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+554,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+555,Not very masculine,Not too important,employed,True,straight,white,college_graduate,west
+556,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+557,Very masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+558,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+559,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,midwest
+560,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+561,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+562,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+563,Very masculine,Somewhat important,employed,True,straight,white,graduate,west
+564,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,northeast
+565,Somewhat masculine,Not too important,employed,False,straight,white,graduate,west
+566,Somewhat masculine,Somewhat important,employed,False,no_answer,white,college_graduate,west
+567,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+568,Not very masculine,Not too important,employed,False,straight,white,college_graduate,west
+569,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+570,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+571,Very masculine,Not at all important,employed,True,not_straight,white,graduate,southeast
+572,Very masculine,Very important,employed,False,not_straight,white,college_graduate,west
+573,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,west
+574,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+575,Very masculine,Very important,employed,True,straight,white,high_school,west
+576,Very masculine,Not at all important,employed,False,straight,white,graduate,midwest
+577,Somewhat masculine,Not at all important,not_employed,False,straight,white,graduate,southeast
+578,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+579,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southwest
+580,Somewhat masculine,Not too important,not_employed,False,straight,white,graduate,west
+581,Very masculine,Very important,not_employed,True,straight,white,graduate,northeast
+582,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southwest
+583,Not very masculine,Not at all important,employed,False,straight,white,graduate,southwest
+584,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+585,No answer,Not at all important,employed,True,straight,white,high_school,west
+586,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+587,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+588,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,west
+589,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+590,Somewhat masculine,Not at all important,not_employed,True,straight,not_white,high_school,southeast
+591,Not at all masculine,Very important,not_employed,False,not_straight,not_white,high_school,midwest
+592,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+593,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+594,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,midwest
+595,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,west
+596,Very masculine,Not at all important,not_employed,True,straight,white,no_high_school,northeast
+597,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,southeast
+598,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+599,Very masculine,Not too important,not_employed,True,straight,white,graduate,west
+600,Somewhat masculine,Not at all important,employed,True,straight,white,college_graduate,west
+601,Somewhat masculine,Not at all important,employed,True,straight,white,high_school,southeast
+602,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+603,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+604,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+605,Somewhat masculine,Not too important,employed,False,straight,white,graduate,northeast
+606,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+607,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+608,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,high_school,southeast
+609,Very masculine,Somewhat important,not_employed,True,not_straight,white,high_school,southwest
+610,Very masculine,Very important,not_employed,True,straight,white,graduate,southwest
+611,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+612,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,graduate,southeast
+613,Very masculine,Very important,employed,True,straight,not_white,college_graduate,southwest
+614,Not at all masculine,Not at all important,employed,False,straight,white,graduate,southeast
+615,Somewhat masculine,No answer,not_employed,False,not_straight,white,high_school,southwest
+616,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+617,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+618,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+619,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+620,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+621,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+622,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,college_graduate,southeast
+623,Very masculine,Not at all important,not_employed,False,not_straight,white,graduate,southeast
+624,Very masculine,Not too important,employed,True,straight,not_white,high_school,west
+625,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,southwest
+626,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+627,Not very masculine,Not too important,not_employed,True,straight,not_white,graduate,southeast
+628,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+629,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+630,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+631,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,southeast
+632,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+633,Very masculine,Very important,employed,False,straight,white,college_graduate,southeast
+634,Somewhat masculine,Somewhat important,employed,True,not_straight,not_white,graduate,northeast
+635,Very masculine,Somewhat important,not_employed,True,no_answer,white,graduate,southwest
+636,Very masculine,Not at all important,not_employed,True,straight,white,high_school,southeast
+637,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,southeast
+638,Somewhat masculine,Not too important,employed,False,straight,not_white,graduate,northeast
+639,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+640,Very masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+641,Very masculine,Very important,not_employed,False,straight,white,college_graduate,southeast
+642,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+643,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+644,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,northeast
+645,Very masculine,Very important,not_employed,True,straight,white,high_school,southwest
+646,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+647,Very masculine,Somewhat important,employed,True,straight,not_white,college_graduate,northeast
+648,Somewhat masculine,Very important,not_employed,True,straight,white,graduate,southeast
+649,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+650,Very masculine,Not too important,not_employed,True,not_straight,white,graduate,midwest
+651,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,northeast
+652,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,midwest
+653,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+654,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,west
+655,Not at all masculine,Not at all important,not_employed,False,not_straight,white,graduate,northeast
+656,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+657,Not very masculine,Somewhat important,employed,True,straight,not_white,no_high_school,west
+658,Somewhat masculine,Very important,employed,True,straight,white,graduate,midwest
+659,Not at all masculine,Not at all important,not_employed,True,straight,white,college_graduate,northeast
+660,Very masculine,Very important,not_employed,True,straight,white,college_graduate,northeast
+661,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,west
+662,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+663,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+664,Somewhat masculine,Not at all important,not_employed,False,not_straight,not_white,graduate,northeast
+665,Very masculine,Very important,not_employed,False,straight,white,high_school,southeast
+666,Very masculine,Somewhat important,employed,True,straight,not_white,college_graduate,west
+667,Very masculine,Not too important,employed,True,straight,not_white,graduate,southwest
+668,Very masculine,Not at all important,not_employed,False,straight,white,graduate,southeast
+669,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+670,Somewhat masculine,Somewhat important,employed,False,not_straight,not_white,college_graduate,west
+671,Not very masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+672,Very masculine,Not at all important,not_employed,True,straight,white,high_school,southwest
+673,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+674,Very masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southeast
+675,Very masculine,Very important,employed,True,straight,white,college_graduate,southeast
+676,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+677,Somewhat masculine,Somewhat important,employed,True,straight,not_white,graduate,southeast
+678,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+679,Somewhat masculine,Somewhat important,employed,False,not_straight,white,high_school,northeast
+680,Somewhat masculine,Not too important,employed,False,straight,white,graduate,west
+681,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,west
+682,Not very masculine,Not at all important,employed,True,straight,white,college_graduate,northeast
+683,Somewhat masculine,Not at all important,employed,False,not_straight,white,college_graduate,midwest
+684,Not very masculine,Not too important,employed,True,straight,white,graduate,midwest
+685,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,midwest
+686,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+687,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+688,Somewhat masculine,Very important,not_employed,True,straight,white,high_school,midwest
+689,Somewhat masculine,Not too important,not_employed,False,not_straight,not_white,high_school,southwest
+690,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+691,Very masculine,Not at all important,employed,True,straight,white,high_school,west
+692,Very masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+693,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+694,Not very masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+695,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+696,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,northeast
+697,Very masculine,Not too important,not_employed,True,straight,not_white,high_school,southeast
+698,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+699,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+700,Somewhat masculine,Very important,not_employed,True,straight,white,graduate,west
+701,Very masculine,Not at all important,not_employed,False,straight,white,high_school,southwest
+702,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+703,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,college_graduate,west
+704,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,west
+705,Not very masculine,Not too important,employed,False,straight,not_white,high_school,west
+706,Somewhat masculine,Somewhat important,employed,True,straight,not_white,graduate,northeast
+707,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+708,Very masculine,Not at all important,not_employed,True,straight,not_white,graduate,southeast
+709,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,southeast
+710,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,graduate,southwest
+711,Not at all masculine,Not at all important,not_employed,False,straight,white,high_school,west
+712,Somewhat masculine,Not at all important,not_employed,True,straight,white,high_school,west
+713,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,west
+714,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+715,Somewhat masculine,Very important,employed,True,straight,white,high_school,southwest
+716,Very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+717,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+718,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+719,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,southwest
+720,Somewhat masculine,Not too important,not_employed,True,not_straight,white,graduate,northeast
+721,Somewhat masculine,Somewhat important,employed,False,not_straight,white,graduate,southeast
+722,Somewhat masculine,Very important,not_employed,False,straight,white,graduate,midwest
+723,Somewhat masculine,Very important,employed,True,straight,white,high_school,southwest
+724,Very masculine,Somewhat important,employed,False,straight,not_white,high_school,northeast
+725,Very masculine,Very important,not_employed,True,straight,not_white,graduate,southeast
+726,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+727,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,graduate,midwest
+728,Very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+729,Somewhat masculine,Not too important,not_employed,True,straight,not_white,graduate,northeast
+730,Very masculine,Very important,employed,True,straight,not_white,college_graduate,west
+731,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+732,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+733,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+734,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+735,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+736,Very masculine,Not too important,not_employed,True,straight,white,high_school,southwest
+737,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+738,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+739,Somewhat masculine,Not at all important,not_employed,True,straight,white,graduate,southeast
+740,Somewhat masculine,Very important,not_employed,True,straight,not_white,graduate,southeast
+741,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,northeast
+742,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+743,No answer,No answer,not_employed,False,not_straight,white,college_graduate,west
+744,Somewhat masculine,Very important,employed,True,straight,white,graduate,midwest
+745,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+746,Very masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+747,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+748,Somewhat masculine,Not at all important,not_employed,False,straight,white,high_school,southwest
+749,Very masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+750,Somewhat masculine,Not at all important,employed,False,not_straight,white,graduate,northeast
+751,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+752,Very masculine,Not too important,employed,True,straight,not_white,high_school,midwest
+753,Very masculine,Very important,not_employed,False,not_straight,white,high_school,west
+754,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+755,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+756,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+757,Very masculine,Very important,not_employed,False,straight,white,college_graduate,midwest
+758,Very masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+759,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+760,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,graduate,midwest
+761,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+762,Somewhat masculine,Somewhat important,employed,False,not_straight,white,college_graduate,northeast
+763,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,southeast
+764,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southeast
+765,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+766,Very masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+767,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+768,No answer,Not at all important,employed,False,straight,white,high_school,southeast
+769,Very masculine,Not too important,employed,True,straight,white,graduate,northeast
+770,Very masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southeast
+771,Not very masculine,Not too important,employed,False,not_straight,white,high_school,midwest
+772,Not very masculine,Not too important,employed,True,straight,white,graduate,midwest
+773,Very masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+774,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+775,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+776,Very masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+777,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+778,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,graduate,northeast
+779,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+780,Very masculine,Somewhat important,not_employed,False,not_straight,not_white,graduate,northeast
+781,Very masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+782,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+783,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+784,Somewhat masculine,Not too important,not_employed,True,not_straight,not_white,high_school,southwest
+785,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+786,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+787,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+788,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+789,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+790,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+791,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+792,Somewhat masculine,Very important,not_employed,True,straight,white,high_school,west
+793,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+794,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+795,Very masculine,Not too important,employed,True,straight,not_white,college_graduate,midwest
+796,Somewhat masculine,Not too important,employed,False,straight,white,high_school,northeast
+797,Very masculine,Somewhat important,employed,True,straight,white,graduate,west
+798,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+799,Not very masculine,Not too important,not_employed,False,straight,white,college_graduate,west
+800,Very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+801,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+802,Not at all masculine,Not at all important,employed,False,straight,not_white,college_graduate,midwest
+803,Somewhat masculine,Somewhat important,not_employed,True,not_straight,white,college_graduate,northeast
+804,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+805,Very masculine,Very important,employed,True,straight,white,college_graduate,northeast
+806,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+807,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+808,Very masculine,Not too important,employed,False,not_straight,white,college_graduate,northeast
+809,Very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+810,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+811,Very masculine,Very important,employed,True,straight,not_white,college_graduate,northeast
+812,Somewhat masculine,Not too important,employed,False,straight,white,high_school,northeast
+813,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+814,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+815,Not very masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+816,No answer,Not at all important,employed,True,straight,white,graduate,southeast
+817,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,west
+818,Very masculine,Not too important,employed,True,straight,white,no_high_school,northeast
+819,Very masculine,Not too important,not_employed,False,not_straight,white,graduate,southeast
+820,Very masculine,Very important,not_employed,False,straight,not_white,high_school,midwest
+821,Very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+822,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,southeast
+823,Very masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+824,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+825,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+826,Somewhat masculine,Somewhat important,employed,True,straight,not_white,graduate,west
+827,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+828,Not very masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+829,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,midwest
+830,Very masculine,Not too important,not_employed,False,straight,white,high_school,west
+831,Very masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,southeast
+832,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+833,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,high_school,west
+834,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+835,Very masculine,Somewhat important,employed,False,straight,not_white,graduate,midwest
+836,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+837,Very masculine,Not too important,employed,True,straight,not_white,college_graduate,midwest
+838,Very masculine,Not too important,employed,True,straight,white,graduate,southeast
+839,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+840,Not very masculine,Not too important,not_employed,True,straight,not_white,graduate,west
+841,Not very masculine,Not at all important,not_employed,False,straight,not_white,high_school,west
+842,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+843,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+844,Very masculine,Not too important,not_employed,False,straight,white,graduate,southwest
+845,Very masculine,Somewhat important,not_employed,False,not_straight,white,graduate,northeast
+846,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+847,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+848,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,west
+849,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+850,Somewhat masculine,Not at all important,not_employed,False,straight,white,high_school,midwest
+851,Very masculine,Very important,not_employed,True,straight,not_white,graduate,west
+852,Very masculine,Not at all important,employed,True,straight,white,graduate,northeast
+853,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+854,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+855,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+856,Very masculine,Very important,not_employed,True,straight,white,graduate,southeast
+857,Somewhat masculine,Not at all important,employed,True,straight,white,college_graduate,midwest
+858,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+859,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+860,Very masculine,Not at all important,employed,False,straight,white,college_graduate,northeast
+861,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+862,Very masculine,Not too important,employed,True,straight,white,high_school,southwest
+863,Very masculine,Somewhat important,employed,False,not_straight,white,college_graduate,midwest
+864,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+865,Very masculine,Very important,not_employed,True,straight,not_white,graduate,southeast
+866,Very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+867,Very masculine,Not too important,employed,True,straight,white,college_graduate,southwest
+868,Somewhat masculine,Somewhat important,employed,False,straight,not_white,high_school,southwest
+869,Not very masculine,Not too important,employed,False,straight,white,high_school,midwest
+870,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+871,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+872,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+873,Very masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+874,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,midwest
+875,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,southeast
+876,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+877,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+878,Not very masculine,Not at all important,not_employed,True,straight,white,graduate,midwest
+879,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+880,Very masculine,Not at all important,employed,False,straight,not_white,college_graduate,northeast
+881,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,west
+882,Not very masculine,Somewhat important,not_employed,False,not_straight,white,graduate,northeast
+883,Very masculine,Not too important,not_employed,True,straight,white,high_school,southwest
+884,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+885,Not very masculine,Not at all important,not_employed,False,straight,not_white,graduate,midwest
+886,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+887,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+888,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,northeast
+889,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+890,Somewhat masculine,Not at all important,not_employed,False,straight,white,high_school,west
+891,Somewhat masculine,Very important,employed,True,straight,white,high_school,southwest
+892,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+893,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+894,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,college_graduate,southeast
+895,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+896,Not very masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+897,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+898,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+899,Somewhat masculine,Somewhat important,employed,True,not_straight,white,graduate,west
+900,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+901,Very masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,southeast
+902,Very masculine,Not at all important,not_employed,True,straight,white,graduate,west
+903,Somewhat masculine,Somewhat important,employed,False,straight,not_white,college_graduate,southwest
+904,Not very masculine,Not too important,employed,True,straight,white,high_school,west
+905,Very masculine,Very important,not_employed,True,straight,not_white,no_high_school,northeast
+906,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+907,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+908,Very masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+909,Somewhat masculine,Somewhat important,employed,False,not_straight,white,college_graduate,southeast
+910,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+911,Very masculine,Somewhat important,not_employed,True,straight,not_white,high_school,southeast
+912,Very masculine,Very important,not_employed,True,straight,white,graduate,southeast
+913,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+914,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+915,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+916,Very masculine,Not too important,not_employed,True,straight,not_white,high_school,southeast
+917,Very masculine,Not at all important,employed,True,straight,white,high_school,southeast
+918,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+919,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+920,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+921,Somewhat masculine,Very important,employed,False,not_straight,white,graduate,northeast
+922,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+923,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+924,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+925,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+926,Very masculine,Not at all important,employed,False,straight,not_white,college_graduate,southeast
+927,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+928,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+929,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+930,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southwest
+931,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+932,Very masculine,Somewhat important,not_employed,False,straight,white,graduate,southeast
+933,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+934,Very masculine,Very important,not_employed,True,straight,not_white,high_school,midwest
+935,No answer,No answer,not_employed,False,straight,white,college_graduate,west
+936,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+937,Not very masculine,Not too important,employed,True,not_straight,not_white,high_school,west
+938,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+939,Very masculine,Somewhat important,employed,False,straight,white,high_school,northeast
+940,No answer,Not too important,employed,True,straight,white,high_school,west
+941,Very masculine,Very important,not_employed,True,not_straight,white,graduate,northeast
+942,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+943,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+944,Somewhat masculine,Very important,not_employed,False,straight,white,high_school,northeast
+945,Not very masculine,Not too important,employed,False,straight,white,graduate,southeast
+946,Very masculine,Not too important,employed,True,straight,white,graduate,southwest
+947,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+948,Somewhat masculine,Not at all important,not_employed,False,straight,white,high_school,southeast
+949,Very masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+950,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,graduate,west
+951,Very masculine,Not at all important,employed,True,straight,white,graduate,west
+952,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+953,Somewhat masculine,Not at all important,not_employed,True,straight,white,high_school,southeast
+954,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+955,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+956,Not very masculine,Not at all important,not_employed,True,straight,white,high_school,west
+957,Very masculine,Very important,not_employed,True,straight,white,graduate,west
+958,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,southeast
+959,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+960,Very masculine,Not at all important,employed,True,straight,not_white,college_graduate,west
+961,Very masculine,Not at all important,employed,False,not_straight,white,high_school,northeast
+962,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+963,Very masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+964,Somewhat masculine,Not too important,not_employed,False,straight,white,graduate,west
+965,Very masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+966,Very masculine,Not at all important,employed,False,straight,white,graduate,northeast
+967,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+968,Very masculine,Not too important,employed,True,straight,white,high_school,west
+969,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,graduate,southeast
+970,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+971,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+972,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+973,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+974,Very masculine,Not at all important,employed,True,straight,white,college_graduate,midwest
+975,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+976,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,midwest
+977,Very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+978,Somewhat masculine,Not too important,employed,False,not_straight,white,high_school,west
+979,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+980,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+981,Very masculine,Not at all important,not_employed,True,not_straight,not_white,college_graduate,northeast
+982,Very masculine,Somewhat important,not_employed,False,not_straight,white,graduate,southeast
+983,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+984,Not very masculine,Somewhat important,employed,False,straight,not_white,college_graduate,west
+985,Not very masculine,Somewhat important,employed,True,straight,not_white,graduate,west
+986,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+987,Not very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+988,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+989,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southeast
+990,Not very masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+991,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+992,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+993,Somewhat masculine,Not too important,employed,False,straight,white,high_school,west
+994,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+995,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,west
+996,Somewhat masculine,Not too important,employed,False,straight,white,high_school,west
+997,Very masculine,Not too important,not_employed,True,straight,not_white,graduate,southwest
+998,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,northeast
+999,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southwest
+1000,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1001,Not very masculine,Not too important,employed,False,not_straight,white,graduate,northeast
+1002,Not very masculine,Not too important,not_employed,False,straight,white,high_school,southwest
+1003,Somewhat masculine,No answer,employed,False,straight,not_white,college_graduate,west
+1004,Not very masculine,Not at all important,employed,False,straight,white,high_school,southeast
+1005,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1006,Somewhat masculine,Not too important,employed,True,not_straight,white,high_school,southeast
+1007,Somewhat masculine,Somewhat important,not_employed,True,not_straight,white,graduate,northeast
+1008,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1009,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+1010,Somewhat masculine,Not at all important,employed,True,not_straight,white,high_school,west
+1011,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southeast
+1012,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1013,Somewhat masculine,Not too important,employed,False,straight,not_white,graduate,southwest
+1014,Very masculine,Very important,not_employed,True,not_straight,white,high_school,northeast
+1015,Very masculine,Not too important,employed,False,straight,not_white,college_graduate,southeast
+1016,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,southeast
+1017,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+1018,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+1019,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+1020,Somewhat masculine,Very important,not_employed,True,straight,white,college_graduate,southwest
+1021,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,college_graduate,west
+1022,Somewhat masculine,Not at all important,employed,False,straight,white,high_school,northeast
+1023,Very masculine,Not at all important,not_employed,False,not_straight,white,graduate,midwest
+1024,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+1025,Not very masculine,Not too important,employed,True,straight,not_white,high_school,southwest
+1026,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+1027,Somewhat masculine,Not at all important,not_employed,False,straight,white,college_graduate,midwest
+1028,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,northeast
+1029,Very masculine,Not at all important,employed,False,straight,white,high_school,northeast
+1030,Very masculine,Very important,employed,False,straight,white,college_graduate,west
+1031,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,college_graduate,midwest
+1032,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,southeast
+1033,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+1034,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southwest
+1035,Somewhat masculine,Not at all important,employed,False,straight,white,college_graduate,southwest
+1036,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+1037,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+1038,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+1039,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1040,Very masculine,Very important,not_employed,True,straight,white,no_high_school,midwest
+1041,Not very masculine,Not at all important,not_employed,False,not_straight,white,high_school,southwest
+1042,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,southeast
+1043,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,west
+1044,Somewhat masculine,Not too important,not_employed,False,straight,not_white,high_school,west
+1045,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,midwest
+1046,Very masculine,Not too important,not_employed,True,straight,white,high_school,west
+1047,Somewhat masculine,Not at all important,employed,False,straight,white,college_graduate,midwest
+1048,Very masculine,Not at all important,not_employed,False,straight,not_white,graduate,west
+1049,Somewhat masculine,Very important,not_employed,True,straight,white,college_graduate,southwest
+1050,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1051,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+1052,Somewhat masculine,Not too important,employed,True,not_straight,white,college_graduate,northeast
+1053,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1054,Not very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1055,Somewhat masculine,Not at all important,employed,False,not_straight,white,high_school,midwest
+1056,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+1057,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1058,Very masculine,Not at all important,employed,True,straight,white,graduate,southeast
+1059,Very masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+1060,Somewhat masculine,Not at all important,employed,False,not_straight,white,graduate,northeast
+1061,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southwest
+1062,Very masculine,Not at all important,not_employed,True,straight,not_white,college_graduate,northeast
+1063,Somewhat masculine,Not too important,not_employed,True,straight,not_white,college_graduate,northeast
+1064,Somewhat masculine,Not too important,employed,True,straight,white,graduate,west
+1065,Somewhat masculine,Not too important,employed,True,straight,white,graduate,west
+1066,Somewhat masculine,Not too important,employed,True,not_straight,white,graduate,northeast
+1067,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+1068,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,southwest
+1069,Very masculine,Not too important,not_employed,True,straight,white,graduate,west
+1070,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1071,Somewhat masculine,Somewhat important,not_employed,False,straight,white,graduate,southeast
+1072,Very masculine,Not at all important,employed,True,straight,white,graduate,northeast
+1073,Very masculine,Somewhat important,employed,False,straight,not_white,high_school,west
+1074,Not at all masculine,Not too important,no_answer,True,straight,white,high_school,northeast
+1075,Very masculine,Not too important,employed,True,straight,white,high_school,west
+1076,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,west
+1077,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+1078,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1079,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+1080,Very masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1081,Very masculine,Not too important,not_employed,False,straight,not_white,college_graduate,northeast
+1082,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+1083,Very masculine,Not at all important,employed,False,straight,not_white,graduate,southeast
+1084,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,northeast
+1085,Somewhat masculine,Not too important,not_employed,False,straight,white,graduate,southeast
+1086,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,southeast
+1087,Not very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,southeast
+1088,Somewhat masculine,Not at all important,employed,False,straight,white,high_school,midwest
+1089,Somewhat masculine,Not too important,employed,False,straight,white,high_school,southeast
+1090,Very masculine,Not at all important,not_employed,True,straight,white,graduate,northeast
+1091,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+1092,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1093,Very masculine,Very important,not_employed,True,straight,white,college_graduate,southeast
+1094,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,northeast
+1095,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,northeast
+1096,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+1097,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,west
+1098,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1099,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1100,No answer,Not at all important,not_employed,True,straight,white,no_high_school,west
+1101,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,west
+1102,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,northeast
+1103,Very masculine,Very important,employed,False,not_straight,white,high_school,west
+1104,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+1105,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+1106,Not very masculine,Not too important,employed,False,straight,white,high_school,midwest
+1107,Not at all masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+1108,Very masculine,Not too important,employed,False,straight,white,high_school,southeast
+1109,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1110,Somewhat masculine,Not too important,not_employed,False,not_straight,white,college_graduate,northeast
+1111,Somewhat masculine,Very important,employed,True,straight,not_white,high_school,southeast
+1112,Somewhat masculine,Not too important,employed,True,straight,not_white,graduate,northeast
+1113,Very masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+1114,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+1115,Not very masculine,Not too important,employed,False,straight,white,high_school,southeast
+1116,Very masculine,Very important,employed,True,straight,white,graduate,west
+1117,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+1118,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+1119,Very masculine,Very important,not_employed,False,straight,white,high_school,midwest
+1120,Somewhat masculine,Not at all important,employed,False,straight,white,high_school,southeast
+1121,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+1122,Very masculine,Very important,not_employed,True,straight,not_white,graduate,southeast
+1123,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+1124,Not very masculine,Not too important,employed,True,straight,not_white,high_school,southwest
+1125,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+1126,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+1127,Very masculine,Not at all important,employed,True,straight,white,high_school,southeast
+1128,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+1129,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,midwest
+1130,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,graduate,southwest
+1131,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+1132,Not very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+1133,Very masculine,Not too important,employed,True,straight,white,graduate,southeast
+1134,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,west
+1135,Somewhat masculine,Not at all important,not_employed,True,straight,white,college_graduate,northeast
+1136,Not very masculine,Not too important,not_employed,False,straight,white,college_graduate,midwest
+1137,Very masculine,Not too important,employed,True,straight,not_white,high_school,west
+1138,Very masculine,Not too important,employed,True,straight,white,graduate,southwest
+1139,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+1140,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+1141,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1142,Very masculine,Somewhat important,not_employed,True,not_straight,white,college_graduate,southeast
+1143,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1144,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,northeast
+1145,Somewhat masculine,Not too important,employed,False,straight,not_white,college_graduate,west
+1146,Somewhat masculine,Not too important,employed,True,not_straight,not_white,high_school,west
+1147,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,northeast
+1148,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+1149,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+1150,Very masculine,Not at all important,employed,False,straight,white,college_graduate,southeast
+1151,Very masculine,Not at all important,employed,True,straight,white,high_school,southeast
+1152,Very masculine,Somewhat important,not_employed,False,not_straight,white,high_school,west
+1153,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southeast
+1154,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+1155,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,west
+1156,Not at all masculine,Not at all important,employed,True,not_straight,white,high_school,west
+1157,Somewhat masculine,Not at all important,employed,False,not_straight,white,college_graduate,southeast
+1158,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southeast
+1159,No answer,Not at all important,not_employed,True,straight,white,high_school,southwest
+1160,Not very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1161,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1162,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1163,Somewhat masculine,Not at all important,employed,True,straight,white,college_graduate,midwest
+1164,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+1165,Somewhat masculine,Not too important,not_employed,True,straight,not_white,graduate,southwest
+1166,Somewhat masculine,Not too important,employed,False,straight,white,high_school,southeast
+1167,Somewhat masculine,Not at all important,not_employed,True,straight,white,high_school,west
+1168,Not very masculine,Not at all important,not_employed,True,straight,white,high_school,west
+1169,Not very masculine,Not at all important,not_employed,False,straight,white,graduate,west
+1170,Not at all masculine,Not at all important,not_employed,True,not_straight,white,college_graduate,midwest
+1171,Very masculine,Very important,employed,False,no_answer,not_white,high_school,southeast
+1172,Very masculine,Not too important,not_employed,True,straight,not_white,high_school,southwest
+1173,Very masculine,Very important,employed,True,straight,white,high_school,midwest
+1174,Very masculine,Not at all important,employed,True,straight,not_white,no_high_school,northeast
+1175,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,west
+1176,Very masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+1177,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,northeast
+1178,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,southeast
+1179,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,midwest
+1180,Not very masculine,Very important,employed,True,straight,white,college_graduate,northeast
+1181,Very masculine,Not at all important,not_employed,True,straight,white,high_school,midwest
+1182,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+1183,Very masculine,Not at all important,employed,True,straight,white,college_graduate,northeast
+1184,Somewhat masculine,Not at all important,employed,False,not_straight,not_white,high_school,midwest
+1185,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,northeast
+1186,Very masculine,Very important,not_employed,True,straight,white,high_school,west
+1187,Somewhat masculine,Very important,employed,False,straight,not_white,college_graduate,northeast
+1188,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+1189,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+1190,Very masculine,Not too important,employed,True,straight,white,graduate,southeast
+1191,Very masculine,Not too important,employed,True,straight,white,high_school,northeast
+1192,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,west
+1193,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,northeast
+1194,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southwest
+1195,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,midwest
+1196,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1197,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+1198,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1199,Somewhat masculine,Not too important,employed,False,straight,white,high_school,northeast
+1200,Very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+1201,Not very masculine,Not at all important,employed,True,not_straight,white,graduate,midwest
+1202,Very masculine,Not too important,employed,True,straight,white,high_school,southwest
+1203,Not very masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+1204,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,west
+1205,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southeast
+1206,Somewhat masculine,Not at all important,not_employed,False,not_straight,not_white,college_graduate,northeast
+1207,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,high_school,southwest
+1208,Very masculine,Very important,employed,False,straight,not_white,high_school,southwest
+1209,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+1210,Very masculine,Not too important,not_employed,False,not_straight,white,high_school,west
+1211,Somewhat masculine,Not at all important,employed,False,straight,white,high_school,west
+1212,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+1213,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+1214,Very masculine,Somewhat important,not_employed,False,straight,not_white,high_school,northeast
+1215,Somewhat masculine,Not at all important,employed,True,straight,white,college_graduate,west
+1216,Very masculine,Not at all important,not_employed,False,straight,white,college_graduate,west
+1217,Very masculine,Not at all important,employed,True,straight,white,college_graduate,southeast
+1218,Not very masculine,Somewhat important,employed,False,not_straight,not_white,high_school,southeast
+1219,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+1220,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+1221,Somewhat masculine,Very important,not_employed,False,not_straight,white,college_graduate,northeast
+1222,Very masculine,Not at all important,employed,False,straight,white,graduate,southeast
+1223,Very masculine,Very important,employed,True,straight,white,graduate,southeast
+1224,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+1225,Somewhat masculine,Very important,employed,True,straight,not_white,graduate,northeast
+1226,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+1227,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1228,Very masculine,Somewhat important,employed,True,straight,white,graduate,southwest
+1229,Not at all masculine,Not at all important,not_employed,False,not_straight,not_white,college_graduate,west
+1230,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1231,Very masculine,Not too important,employed,False,straight,white,graduate,southeast
+1232,Very masculine,Not at all important,employed,False,straight,white,graduate,midwest
+1233,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+1234,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+1235,Very masculine,Very important,employed,True,straight,not_white,high_school,northeast
+1236,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+1237,Somewhat masculine,Not at all important,employed,True,straight,not_white,college_graduate,west
+1238,Not very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+1239,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1240,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1241,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,west
+1242,Not very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+1243,Very masculine,Somewhat important,employed,False,no_answer,white,high_school,northeast
+1244,Very masculine,Not at all important,employed,True,straight,white,college_graduate,northeast
+1245,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1246,Very masculine,Very important,employed,True,straight,white,college_graduate,southeast
+1247,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,northeast
+1248,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,northeast
+1249,Not very masculine,Not too important,employed,False,straight,white,graduate,southeast
+1250,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,northeast
+1251,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1252,Very masculine,Not at all important,employed,True,straight,not_white,college_graduate,southeast
+1253,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1254,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1255,Somewhat masculine,Somewhat important,employed,False,not_straight,white,college_graduate,southwest
+1256,Very masculine,Not at all important,employed,True,straight,white,college_graduate,midwest
+1257,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+1258,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+1259,Very masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+1260,Very masculine,Not too important,employed,False,straight,white,high_school,midwest
+1261,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+1262,Somewhat masculine,Very important,employed,True,straight,not_white,high_school,southeast
+1263,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,midwest
+1264,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+1265,Not very masculine,Somewhat important,employed,False,straight,white,high_school,northeast
+1266,Very masculine,Very important,employed,True,straight,white,high_school,southeast
+1267,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,southeast
+1268,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+1269,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southeast
+1270,Very masculine,Not at all important,employed,True,straight,white,college_graduate,southeast
+1271,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,west
+1272,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,northeast
+1273,Not very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1274,Somewhat masculine,Very important,employed,True,straight,white,high_school,midwest
+1275,Very masculine,Not too important,employed,False,straight,white,high_school,west
+1276,Very masculine,Not at all important,employed,True,straight,white,college_graduate,southeast
+1277,Very masculine,Very important,employed,True,straight,white,high_school,northeast
+1278,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+1279,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,southeast
+1280,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1281,Somewhat masculine,Somewhat important,not_employed,False,no_answer,white,high_school,southwest
+1282,Somewhat masculine,Somewhat important,employed,True,straight,not_white,graduate,midwest
+1283,Very masculine,Very important,employed,True,no_answer,white,graduate,southwest
+1284,Very masculine,Very important,employed,True,straight,not_white,high_school,southwest
+1285,Very masculine,Very important,employed,True,straight,not_white,high_school,southeast
+1286,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+1287,Somewhat masculine,Somewhat important,employed,True,straight,not_white,college_graduate,northeast
+1288,No answer,No answer,employed,True,straight,not_white,college_graduate,midwest
+1289,Very masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1290,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1291,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1292,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1293,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+1294,Very masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+1295,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+1296,Somewhat masculine,Not too important,not_employed,False,straight,white,high_school,west
+1297,Not very masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1298,Very masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+1299,Very masculine,Not too important,employed,False,not_straight,white,high_school,midwest
+1300,Very masculine,Very important,employed,False,straight,not_white,college_graduate,northeast
+1301,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+1302,Very masculine,Very important,employed,True,straight,not_white,high_school,midwest
+1303,Not very masculine,Very important,not_employed,False,no_answer,not_white,no_high_school,midwest
+1304,Very masculine,Somewhat important,employed,False,straight,white,high_school,southwest
+1305,Very masculine,Very important,employed,False,straight,not_white,high_school,southeast
+1306,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,west
+1307,Somewhat masculine,Not too important,employed,False,straight,white,high_school,west
+1308,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+1309,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1310,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,west
+1311,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1312,Very masculine,Very important,employed,True,straight,not_white,high_school,southeast
+1313,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+1314,Very masculine,Very important,employed,True,straight,white,college_graduate,southeast
+1315,Not very masculine,Somewhat important,employed,False,straight,white,college_graduate,southwest
+1316,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+1317,Very masculine,Very important,employed,False,straight,white,high_school,southeast
+1318,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southeast
+1319,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1320,Very masculine,Not at all important,employed,True,straight,white,high_school,northeast
+1321,Very masculine,Not too important,employed,True,straight,white,high_school,midwest
+1322,Very masculine,Not too important,not_employed,False,straight,not_white,high_school,southwest
+1323,Very masculine,Not at all important,not_employed,True,straight,white,graduate,midwest
+1324,Somewhat masculine,Not too important,not_employed,False,not_straight,white,graduate,northeast
+1325,Not at all masculine,Not too important,employed,True,straight,not_white,high_school,southeast
+1326,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,west
+1327,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,west
+1328,Very masculine,Not at all important,employed,True,straight,not_white,college_graduate,west
+1329,Very masculine,Very important,employed,False,straight,white,graduate,southwest
+1330,Somewhat masculine,Not too important,not_employed,False,not_straight,white,high_school,southwest
+1331,Very masculine,Not too important,employed,False,straight,white,graduate,midwest
+1332,Somewhat masculine,Not too important,employed,False,not_straight,white,college_graduate,northeast
+1333,Somewhat masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+1334,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1335,Very masculine,Not too important,not_employed,True,not_straight,white,high_school,northeast
+1336,Very masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+1337,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,southeast
+1338,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+1339,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+1340,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,northeast
+1341,Very masculine,Somewhat important,employed,True,straight,white,graduate,west
+1342,Somewhat masculine,Not too important,not_employed,False,not_straight,white,high_school,west
+1343,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1344,Very masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,northeast
+1345,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+1346,No answer,No answer,not_employed,True,straight,white,high_school,west
+1347,No answer,No answer,no_answer,False,no_answer,not_white,college_graduate,midwest
+1348,Somewhat masculine,Very important,employed,False,not_straight,not_white,college_graduate,northeast
+1349,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southeast
+1350,Very masculine,Not at all important,employed,True,straight,not_white,high_school,southwest
+1351,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,southwest
+1352,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+1353,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,west
+1354,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1355,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1356,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1357,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,midwest
+1358,Somewhat masculine,Not at all important,employed,False,straight,white,high_school,northeast
+1359,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,midwest
+1360,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+1361,Very masculine,Not at all important,employed,True,straight,not_white,high_school,west
+1362,Very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1363,Not at all masculine,Not at all important,employed,False,not_straight,not_white,high_school,southeast
+1364,Very masculine,Not at all important,not_employed,True,straight,white,college_graduate,northeast
+1365,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1366,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+1367,Very masculine,Not at all important,employed,True,straight,white,graduate,west
+1368,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southeast
+1369,Very masculine,Not too important,employed,True,straight,not_white,graduate,southwest
+1370,Not very masculine,Not at all important,employed,False,not_straight,white,college_graduate,west
+1371,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,southwest
+1372,Very masculine,Somewhat important,employed,True,straight,white,graduate,west
+1373,Very masculine,Not too important,employed,True,straight,white,graduate,northeast
+1374,Not at all masculine,Not at all important,no_answer,False,straight,not_white,high_school,southwest
+1375,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,southwest
+1376,Somewhat masculine,Not too important,employed,False,straight,white,high_school,southwest
+1377,Very masculine,Not at all important,not_employed,False,straight,not_white,graduate,midwest
+1378,Very masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1379,Somewhat masculine,Not at all important,employed,False,not_straight,white,high_school,southeast
+1380,Somewhat masculine,Not too important,not_employed,False,straight,not_white,high_school,west
+1381,Somewhat masculine,Not at all important,not_employed,True,no_answer,not_white,high_school,southeast
+1382,Very masculine,Not too important,employed,False,not_straight,white,college_graduate,midwest
+1383,Somewhat masculine,Not too important,employed,False,straight,white,high_school,northeast
+1384,Not at all masculine,Not too important,not_employed,False,straight,white,graduate,southeast
+1385,Very masculine,Somewhat important,employed,False,straight,not_white,college_graduate,northeast
+1386,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,southwest
+1387,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+1388,Very masculine,Very important,employed,True,straight,not_white,college_graduate,southeast
+1389,Very masculine,Not at all important,not_employed,False,straight,white,college_graduate,west
+1390,Very masculine,Not too important,employed,False,straight,white,high_school,southwest
+1391,Somewhat masculine,Somewhat important,employed,False,straight,not_white,college_graduate,northeast
+1392,Somewhat masculine,Not too important,employed,True,straight,white,high_school,west
+1393,Somewhat masculine,Somewhat important,employed,False,not_straight,white,high_school,midwest
+1394,Very masculine,Not too important,employed,True,straight,white,high_school,west
+1395,Very masculine,Not too important,employed,True,straight,white,college_graduate,west
+1396,Very masculine,Very important,employed,True,straight,white,graduate,southeast
+1397,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1398,Not very masculine,Not at all important,employed,True,straight,not_white,high_school,southeast
+1399,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1400,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1401,Very masculine,Very important,not_employed,True,straight,white,high_school,southwest
+1402,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+1403,Somewhat masculine,Not too important,not_employed,False,not_straight,not_white,college_graduate,west
+1404,Very masculine,Somewhat important,employed,False,straight,white,graduate,midwest
+1405,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1406,Very masculine,Not at all important,not_employed,True,straight,white,high_school,midwest
+1407,Somewhat masculine,Not too important,employed,False,not_straight,white,high_school,midwest
+1408,Very masculine,Somewhat important,employed,True,straight,white,high_school,southwest
+1409,Not at all masculine,Not at all important,not_employed,True,not_straight,white,graduate,northeast
+1410,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1411,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+1412,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1413,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+1414,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+1415,Very masculine,Very important,employed,True,not_straight,white,graduate,southwest
+1416,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,southeast
+1417,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,southwest
+1418,Somewhat masculine,Not too important,employed,True,not_straight,white,graduate,midwest
+1419,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1420,Somewhat masculine,Not too important,not_employed,False,straight,not_white,high_school,southwest
+1421,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,northeast
+1422,Somewhat masculine,Not too important,employed,False,not_straight,white,college_graduate,midwest
+1423,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1424,Somewhat masculine,Not at all important,employed,True,straight,white,no_high_school,midwest
+1425,Somewhat masculine,Not too important,employed,False,straight,white,graduate,northeast
+1426,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+1427,Very masculine,Not at all important,employed,True,straight,white,college_graduate,west
+1428,Very masculine,Very important,employed,True,straight,not_white,high_school,west
+1429,Very masculine,Somewhat important,not_employed,True,straight,not_white,college_graduate,southeast
+1430,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+1431,Very masculine,Very important,employed,True,straight,not_white,college_graduate,southeast
+1432,Very masculine,Very important,employed,False,straight,white,college_graduate,northeast
+1433,Very masculine,Very important,employed,True,straight,not_white,high_school,west
+1434,Not very masculine,Not too important,employed,True,straight,white,high_school,west
+1435,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,midwest
+1436,Very masculine,Very important,employed,False,straight,not_white,high_school,west
+1437,Not very masculine,Not too important,employed,True,not_straight,white,college_graduate,midwest
+1438,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southwest
+1439,Somewhat masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+1440,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,west
+1441,Somewhat masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1442,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southwest
+1443,Somewhat masculine,Somewhat important,employed,False,not_straight,not_white,graduate,northeast
+1444,Very masculine,Not too important,not_employed,False,not_straight,white,high_school,west
+1445,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,southwest
+1446,Not at all masculine,Not at all important,employed,False,straight,white,college_graduate,northeast
+1447,Very masculine,Not too important,employed,False,straight,white,graduate,northeast
+1448,Somewhat masculine,Very important,not_employed,True,straight,white,graduate,midwest
+1449,Very masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1450,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,northeast
+1451,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1452,Very masculine,Not too important,employed,True,straight,white,graduate,west
+1453,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,midwest
+1454,Very masculine,Somewhat important,employed,False,straight,white,high_school,west
+1455,Somewhat masculine,Somewhat important,employed,False,straight,not_white,high_school,northeast
+1456,Very masculine,Very important,not_employed,False,not_straight,not_white,high_school,northeast
+1457,Not very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,west
+1458,Not very masculine,Not too important,employed,True,straight,white,high_school,west
+1459,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+1460,Very masculine,Not at all important,employed,False,straight,white,college_graduate,southwest
+1461,Not very masculine,Somewhat important,employed,False,straight,white,college_graduate,west
+1462,Very masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+1463,Somewhat masculine,Not at all important,not_employed,False,straight,white,college_graduate,midwest
+1464,Very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1465,Very masculine,Somewhat important,employed,False,straight,white,college_graduate,northeast
+1466,Somewhat masculine,Not too important,employed,False,straight,white,graduate,midwest
+1467,Very masculine,Very important,employed,True,straight,white,graduate,northeast
+1468,Not very masculine,Not too important,employed,False,straight,white,high_school,southwest
+1469,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southwest
+1470,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,west
+1471,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+1472,Very masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+1473,Very masculine,Somewhat important,not_employed,True,straight,white,graduate,southwest
+1474,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,midwest
+1475,Somewhat masculine,Somewhat important,employed,True,straight,not_white,high_school,west
+1476,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+1477,Very masculine,Somewhat important,employed,False,not_straight,white,college_graduate,southeast
+1478,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southeast
+1479,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,northeast
+1480,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+1481,Not at all masculine,Not at all important,employed,False,straight,not_white,high_school,southeast
+1482,Somewhat masculine,Not too important,employed,False,straight,not_white,high_school,southeast
+1483,Somewhat masculine,Very important,employed,False,straight,white,graduate,midwest
+1484,Not very masculine,Not at all important,employed,True,straight,white,college_graduate,west
+1485,Very masculine,Not too important,not_employed,False,straight,white,college_graduate,southeast
+1486,Somewhat masculine,Not at all important,employed,False,straight,white,college_graduate,midwest
+1487,Very masculine,Very important,not_employed,False,not_straight,not_white,high_school,west
+1488,Somewhat masculine,Not too important,not_employed,True,straight,white,no_high_school,southeast
+1489,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,west
+1490,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1491,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,midwest
+1492,Not very masculine,Somewhat important,not_employed,False,not_straight,white,high_school,southeast
+1493,Very masculine,Not too important,employed,False,straight,white,high_school,midwest
+1494,Very masculine,Not too important,employed,True,straight,white,graduate,southeast
+1495,Somewhat masculine,Not at all important,employed,False,not_straight,white,graduate,midwest
+1496,Not very masculine,Not at all important,employed,False,straight,not_white,college_graduate,southwest
+1497,Somewhat masculine,Somewhat important,not_employed,False,straight,white,high_school,southeast
+1498,Very masculine,Not too important,employed,True,straight,white,college_graduate,southeast
+1499,Not very masculine,Not too important,not_employed,False,straight,white,high_school,northeast
+1500,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1501,Somewhat masculine,Somewhat important,employed,True,not_straight,white,college_graduate,southeast
+1502,Somewhat masculine,Not too important,employed,True,straight,white,graduate,midwest
+1503,Very masculine,Not too important,employed,True,straight,white,high_school,southeast
+1504,Somewhat masculine,Not at all important,not_employed,False,not_straight,white,high_school,southeast
+1505,Somewhat masculine,Somewhat important,not_employed,True,straight,white,high_school,southeast
+1506,Somewhat masculine,Not too important,employed,True,straight,white,graduate,northeast
+1507,Not very masculine,Not too important,employed,True,straight,white,college_graduate,midwest
+1508,Not at all masculine,Not at all important,employed,True,straight,white,high_school,southeast
+1509,Very masculine,Very important,not_employed,True,straight,white,high_school,midwest
+1510,Not very masculine,Not too important,not_employed,True,straight,white,graduate,southeast
+1511,Somewhat masculine,Very important,not_employed,True,straight,white,graduate,midwest
+1512,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1513,Very masculine,Very important,employed,True,straight,not_white,high_school,northeast
+1514,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+1515,Somewhat masculine,Not too important,employed,False,straight,white,graduate,northeast
+1516,Very masculine,Somewhat important,employed,False,straight,not_white,college_graduate,midwest
+1517,Very masculine,Somewhat important,employed,True,no_answer,white,high_school,midwest
+1518,Somewhat masculine,Somewhat important,not_employed,True,straight,white,college_graduate,west
+1519,Very masculine,Very important,employed,True,straight,white,college_graduate,midwest
+1520,Somewhat masculine,Very important,employed,False,straight,white,high_school,west
+1521,Very masculine,Very important,employed,False,straight,white,graduate,midwest
+1522,Very masculine,Not too important,not_employed,True,straight,white,high_school,southeast
+1523,Somewhat masculine,Not too important,not_employed,True,straight,white,high_school,midwest
+1524,Somewhat masculine,Somewhat important,not_employed,True,not_straight,white,graduate,northeast
+1525,Not very masculine,Not too important,employed,True,not_straight,white,graduate,west
+1526,Somewhat masculine,Somewhat important,not_employed,True,straight,white,graduate,midwest
+1527,Very masculine,Not too important,not_employed,False,straight,white,high_school,southeast
+1528,Very masculine,Very important,not_employed,False,straight,white,college_graduate,west
+1529,Very masculine,Not too important,employed,False,straight,white,college_graduate,midwest
+1530,Somewhat masculine,Not at all important,employed,True,straight,white,college_graduate,midwest
+1531,Very masculine,Not too important,not_employed,True,straight,white,graduate,midwest
+1532,Very masculine,Somewhat important,not_employed,False,straight,white,college_graduate,midwest
+1533,Somewhat masculine,Not too important,not_employed,True,straight,white,college_graduate,midwest
+1534,Not very masculine,No answer,not_employed,False,not_straight,white,college_graduate,southwest
+1535,Somewhat masculine,Not too important,employed,False,straight,white,graduate,southwest
+1536,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1537,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,southeast
+1538,Very masculine,Very important,not_employed,True,straight,white,college_graduate,midwest
+1539,Somewhat masculine,Not too important,employed,False,straight,not_white,high_school,northeast
+1540,Somewhat masculine,Not too important,not_employed,False,straight,not_white,high_school,southwest
+1541,Somewhat masculine,Not too important,not_employed,True,straight,white,graduate,southwest
+1542,Somewhat masculine,Not at all important,employed,False,straight,not_white,high_school,northeast
+1543,Very masculine,Not too important,not_employed,True,straight,white,college_graduate,west
+1544,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+1545,Somewhat masculine,Somewhat important,employed,True,straight,white,graduate,midwest
+1546,Somewhat masculine,Not too important,employed,True,straight,white,graduate,midwest
+1547,Somewhat masculine,Not too important,employed,True,straight,not_white,high_school,west
+1548,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,west
+1549,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,college_graduate,northeast
+1550,Very masculine,Somewhat important,not_employed,True,straight,white,high_school,midwest
+1551,Very masculine,Somewhat important,not_employed,True,straight,white,college_graduate,southwest
+1552,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1553,Very masculine,Somewhat important,employed,False,straight,not_white,high_school,west
+1554,Somewhat masculine,Very important,employed,True,straight,white,graduate,southeast
+1555,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southeast
+1556,Somewhat masculine,Not too important,employed,False,not_straight,white,college_graduate,northeast
+1557,Very masculine,Somewhat important,employed,True,straight,not_white,high_school,west
+1558,Somewhat masculine,Not too important,employed,True,straight,white,high_school,southwest
+1559,Somewhat masculine,Somewhat important,employed,False,straight,white,graduate,northeast
+1560,Somewhat masculine,Not too important,employed,True,straight,white,high_school,midwest
+1561,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1562,Somewhat masculine,Not at all important,employed,True,straight,white,graduate,west
+1563,Somewhat masculine,Not too important,employed,False,straight,white,graduate,southwest
+1564,Somewhat masculine,Not at all important,employed,False,straight,white,college_graduate,midwest
+1565,Not very masculine,Not too important,not_employed,False,not_straight,not_white,high_school,west
+1566,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,northeast
+1567,Somewhat masculine,Not too important,employed,False,not_straight,white,graduate,midwest
+1568,Very masculine,Somewhat important,employed,False,straight,not_white,high_school,west
+1569,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,southwest
+1570,Somewhat masculine,Not too important,employed,True,straight,white,graduate,southwest
+1571,Not at all masculine,Somewhat important,employed,True,straight,white,no_high_school,southeast
+1572,Very masculine,Somewhat important,employed,False,not_straight,white,high_school,midwest
+1573,Somewhat masculine,Somewhat important,employed,True,straight,not_white,graduate,west
+1574,Very masculine,Not at all important,not_employed,True,straight,not_white,high_school,southeast
+1575,Very masculine,Very important,employed,False,not_straight,white,graduate,west
+1576,Very masculine,Somewhat important,not_employed,False,straight,not_white,high_school,midwest
+1577,Somewhat masculine,Not too important,employed,True,straight,not_white,college_graduate,west
+1578,Not very masculine,Very important,employed,True,not_straight,white,graduate,southwest
+1579,Somewhat masculine,Somewhat important,not_employed,True,straight,not_white,high_school,west
+1580,Not very masculine,Not too important,not_employed,False,straight,white,high_school,southwest
+1581,Very masculine,Somewhat important,employed,True,straight,white,high_school,west
+1582,Very masculine,Not too important,employed,True,straight,white,college_graduate,west
+1583,Very masculine,Not at all important,not_employed,True,straight,white,high_school,west
+1584,Not at all masculine,Not at all important,not_employed,True,straight,not_white,high_school,southeast
+1585,Not very masculine,Not too important,employed,False,straight,white,high_school,southeast
+1586,Very masculine,Not at all important,employed,True,straight,not_white,high_school,midwest
+1587,Somewhat masculine,Somewhat important,employed,False,not_straight,white,graduate,west
+1588,Somewhat masculine,Somewhat important,not_employed,False,straight,white,college_graduate,midwest
+1589,Very masculine,Not at all important,employed,False,straight,white,college_graduate,west
+1590,Not very masculine,Not too important,not_employed,True,straight,white,no_high_school,southwest
+1591,Very masculine,Very important,not_employed,False,straight,not_white,high_school,northeast
+1592,Somewhat masculine,Somewhat important,employed,False,not_straight,not_white,college_graduate,southeast
+1593,Very masculine,Very important,not_employed,False,not_straight,white,high_school,midwest
+1594,Somewhat masculine,Not too important,employed,False,straight,white,high_school,midwest
+1595,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1596,Somewhat masculine,Somewhat important,not_employed,False,not_straight,white,high_school,northeast
+1597,Somewhat masculine,Not too important,employed,False,straight,white,college_graduate,southeast
+1598,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,southeast
+1599,Somewhat masculine,Somewhat important,employed,True,straight,white,college_graduate,midwest
+1600,Somewhat masculine,Not too important,employed,True,straight,white,high_school,northeast
+1601,Very masculine,Very important,employed,False,straight,not_white,high_school,southeast
+1602,Somewhat masculine,Somewhat important,employed,False,straight,white,college_graduate,southeast
+1603,Very masculine,Not too important,employed,True,straight,white,high_school,west
+1604,Somewhat masculine,Somewhat important,not_employed,False,straight,not_white,college_graduate,west
+1605,Very masculine,Very important,not_employed,True,straight,white,graduate,midwest
+1606,Very masculine,Not at all important,not_employed,False,straight,white,high_school,northeast
+1607,Very masculine,Somewhat important,employed,True,straight,not_white,graduate,west
+1608,Not very masculine,Not too important,employed,False,not_straight,white,high_school,northeast
+1609,Very masculine,Not at all important,employed,True,straight,white,high_school,southwest
+1610,Not very masculine,Not at all important,employed,False,straight,white,high_school,midwest
+1611,Very masculine,Very important,employed,True,straight,not_white,no_high_school,west
+1612,Somewhat masculine,Somewhat important,employed,True,straight,white,high_school,southeast
+1613,Somewhat masculine,Somewhat important,employed,False,straight,white,high_school,southwest
+1614,Very masculine,Not at all important,not_employed,False,straight,white,high_school,northeast

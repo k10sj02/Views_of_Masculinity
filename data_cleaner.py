@@ -1,5 +1,7 @@
 import pandas as pd
 
+SOURCE_DATA_NOT_SELECTED = "Not selected"
+
 NO_ANSWER = "no_answer"
 
 # employment
@@ -121,12 +123,44 @@ Q0030_SUBSTITUTION = {
     "Wyoming": WEST,
 }
 
-if __name__ == "__main__":
-    dataframe = pd.read_csv("Data/raw-responses.csv")
-    dataframe["_employment_status"] = dataframe["q0009"].map(Q0009_SUBSTITUTION)
-    dataframe["_sexual_orientation"] = dataframe["q0026"].map(Q0026_SUBSTITUTION)
-    dataframe["_race"] = dataframe["q0028"].map(Q0028_SUBSTITUTION)
-    dataframe["_schooling"] = dataframe["q0029"].map(Q0029_SUBSTITUTION)
-    dataframe["_region"] = dataframe["q0030"].map(Q0030_SUBSTITUTION)
+QUESTIONS_TO_KEEP_AS_IS = (
+    "q0001",
+    "q0002",
+    # "q0007_0001",
+    # "q0007_0002",
+    # "q0007_0003",
+    # "q0007_0004",
+    # "q0007_0005",
+    # "q0007_0006",
+    # "q0007_0007",
+    # "q0007_0008",
+    # "q0007_0009",
+    # "q0007_0010",
+    # "q0007_0011",
+)
 
-    print(dataframe["_region"].value_counts())
+
+def combine_has_children(q0025_0001_value: str, q0025_0002_value: str):
+    return (q0025_0001_value, q0025_0002_value) != (
+        SOURCE_DATA_NOT_SELECTED,
+        SOURCE_DATA_NOT_SELECTED,
+    )
+
+
+if __name__ == "__main__":
+    source = pd.read_csv("Data/raw-responses.csv")
+    dest = pd.DataFrame()
+
+    for question in QUESTIONS_TO_KEEP_AS_IS:
+        dest[question] = source[question]
+
+    dest["q0009"] = source["q0009"].map(Q0009_SUBSTITUTION)
+    dest["q0025"] = source["q0025_0001"].combine(
+        source["q0025_0002"], combine_has_children
+    )
+    dest["q0026"] = source["q0026"].map(Q0026_SUBSTITUTION)
+    dest["q0028"] = source["q0028"].map(Q0028_SUBSTITUTION)
+    dest["q0029"] = source["q0029"].map(Q0029_SUBSTITUTION)
+    dest["q0030"] = source["q0030"].map(Q0030_SUBSTITUTION)
+
+    dest.to_csv("Data/cleaned-responses.csv")
