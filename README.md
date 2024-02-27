@@ -25,5 +25,3 @@ The code provided comprehensive data preprocessing and exploration script for a 
 
 6. **Conclusion**:
    - The script concludes with a summary of the data preprocessing steps and the final dataset ready for further analysis or modeling tasks.
-
-Overall, the script demonstrates a thorough approach to data preprocessing and exploration, essential for gaining insights and preparing data for machine learning tasks.
