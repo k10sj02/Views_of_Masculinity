@@ -2,8 +2,6 @@ import pandas as pd
 
 SOURCE_DATA_NOT_SELECTED = "Not selected"
 
-NO_ANSWER = "no_answer"
-
 # employment
 EMPLOYED = "employed"
 NOT_EMPLOYED = "not_employed"
@@ -29,10 +27,26 @@ MIDWEST = "midwest"
 SOUTHWEST = "southwest"
 WEST = "west"
 
+Q0001_SUBSTITUTION = {
+    "Very masculine": "very_masculine",
+    "Somewhat masculine": "somewhat_masculine",
+    "Not very masculine": "not_very_masculine",
+    "Not at all masculine": "not_at_all_masculine",
+    "No answer": pd.NA,
+}
+
+Q0002_SUBSTITUTION = {
+    "Very important": "very_important",
+    "Somewhat important": "somewhat_important",
+    "Not too important": "not_too_important",
+    "Not at all important": "not_at_all_important",
+    "No answer": pd.NA,
+}
+
 Q0009_SUBSTITUTION = {
     "Employed, working full-time": EMPLOYED,
     "Employed, working part-time": EMPLOYED,
-    "No answer": NO_ANSWER,
+    "No answer": pd.NA,
     "Not employed-retired": NOT_EMPLOYED,
     "Not employed, looking for work": NOT_EMPLOYED,
     "Not employed, NOT looking for work": NOT_EMPLOYED,
@@ -42,7 +56,7 @@ Q0009_SUBSTITUTION = {
 Q0026_SUBSTITUTION = {
     "Gay": NOT_STRAIGHT,
     "Straight": STRAIGHT,
-    "No answer": NO_ANSWER,
+    "No answer": pd.NA,
     "Bisexual": NOT_STRAIGHT,
     "Other": NOT_STRAIGHT,
 }
@@ -123,22 +137,6 @@ Q0030_SUBSTITUTION = {
     "Wyoming": WEST,
 }
 
-QUESTIONS_TO_KEEP_AS_IS = (
-    "q0001",
-    "q0002",
-    # "q0007_0001",
-    # "q0007_0002",
-    # "q0007_0003",
-    # "q0007_0004",
-    # "q0007_0005",
-    # "q0007_0006",
-    # "q0007_0007",
-    # "q0007_0008",
-    # "q0007_0009",
-    # "q0007_0010",
-    # "q0007_0011",
-)
-
 
 def combine_has_children(q0025_0001_value: str, q0025_0002_value: str):
     return (q0025_0001_value, q0025_0002_value) != (
@@ -151,9 +149,8 @@ if __name__ == "__main__":
     source = pd.read_csv("Data/raw-responses.csv")
     dest = pd.DataFrame()
 
-    for question in QUESTIONS_TO_KEEP_AS_IS:
-        dest[question] = source[question]
-
+    dest["q0001"] = source["q0001"].map(Q0001_SUBSTITUTION)
+    dest["q0002"] = source["q0002"].map(Q0002_SUBSTITUTION)
     dest["q0009"] = source["q0009"].map(Q0009_SUBSTITUTION)
     dest["q0025"] = source["q0025_0001"].combine(
         source["q0025_0002"], combine_has_children
@@ -161,6 +158,8 @@ if __name__ == "__main__":
     dest["q0026"] = source["q0026"].map(Q0026_SUBSTITUTION)
     dest["q0028"] = source["q0028"].map(Q0028_SUBSTITUTION)
     dest["q0029"] = source["q0029"].map(Q0029_SUBSTITUTION)
-    dest["q0030"] = source["q0030"].map(Q0030_SUBSTITUTION)
+    # hard to quantify, dropped for now
+    # dest["q0030"] = source["q0030"].map(Q0030_SUBSTITUTION)
 
+    dest.dropna(inplace=True)
     dest.to_csv("Data/cleaned-responses.csv")
