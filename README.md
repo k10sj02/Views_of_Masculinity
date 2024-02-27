@@ -1,4 +1,4 @@
-# Gender Analytics - American Views of MeToo after #MeToo
+# Gender Analytics - American Views of Masculinity after #MeToo
 
 The code provided seems to be a comprehensive data preprocessing and exploration script for a survey dataset related to masculinity. Here's a summary of the major steps performed in the script:
 
