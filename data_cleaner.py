@@ -58,6 +58,8 @@ Q0002_QUANTIZATION = {
     "not_at_all_important": 0,
 }
 
+Q0004_SUBSTITUTION = {}
+
 Q0009_SUBSTITUTION = {
     "Employed, working full-time": EMPLOYED,
     "Employed, working part-time": EMPLOYED,
@@ -181,6 +183,14 @@ Q0030_SUBSTITUTION = {
     "Wyoming": WEST,
 }
 
+Q0030_QUANTIZATION = {
+    NORTHEAST: 1,
+    SOUTHEAST: 2,
+    MIDWEST: 3,
+    SOUTHWEST: 4,
+    WEST: 5,
+}
+
 
 def combine_has_children(q0025_0001_value: str, q0025_0002_value: str):
     return (q0025_0001_value, q0025_0002_value) != (
@@ -201,8 +211,14 @@ def clean_data(source: pd.DataFrame):
     dest["q0026"] = source["q0026"].map(Q0026_SUBSTITUTION)
     dest["q0028"] = source["q0028"].map(Q0028_SUBSTITUTION)
     dest["q0029"] = source["q0029"].map(Q0029_SUBSTITUTION)
-    # hard to quantify, dropped for now
-    # dest["q0030"] = source["q0030"].map(Q0030_SUBSTITUTION)
+    dest["q0030"] = source["q0030"].map(Q0030_SUBSTITUTION)
+
+    for col in source.columns:
+        if "_" in col:
+            dest[col] = source[col].apply(lambda x: 0 if x == "Not selected" else 1)
+        else:
+            quantization = {val: i for i, val in enumerate(source[col].unique())}
+            dest[f"auto_{col}"] = source[col].map(quantization)
 
     dest.dropna(inplace=True)
     return dest
@@ -217,6 +233,11 @@ def quantize_data(source: pd.DataFrame):
     dest["q0026"] = source["q0026"].map(Q0026_QUANTIZATION)
     dest["q0028"] = source["q0028"].map(Q0028_QUANTIZATION)
     dest["q0029"] = source["q0029"].map(Q0029_QUANTIZATION)
+    dest["q0030"] = source["q0030"].map(Q0030_QUANTIZATION)
+
+    for col in source.columns:
+        if "_" in col or "auto_" in col:
+            dest[col] = source[col]
 
     return dest
 
